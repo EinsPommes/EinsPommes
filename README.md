@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jannik / E͌i̻̓ͯn̺̽s͉͍P̈́o̿͋ͧmm͖ͭe̮̓s̘ͣ͌ ღ#0001</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=einspommes&label=Profile%20views&color=0e75b6&style=flat" alt="einspommes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jannik2006" target="blank"><img src="https://img.shields.io/twitter/follow/jannik2006?logo=twitter&style=for-the-badge" alt="jannik2006" /></a> </p>
