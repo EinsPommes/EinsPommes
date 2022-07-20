@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm Jannik / E͌i̻̓ͯn̺̽s͉͍P̈́o̿͋ͧmm͖ͭe̮̓s̘ͣ͌ ღ#0001</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=einspommes&label=Profile%20views&color=0e75b6&style=flat" alt="einspommes" /> </p>
+
+<p align="left"> <a href="https://twitter.com/jannik2006" target="blank"><img src="https://img.shields.io/twitter/follow/jannik2006?logo=twitter&style=for-the-badge" alt="jannik2006" /></a> </p>
+
+- 🔭 I’m currently working on **~~~~~~~~~~~~~~~**
+
+- 🌱 I’m currently learning **~~~~~~~~~~~~~~~**
+
+- 👯 I’m looking to collaborate on **~~~~~~~~~~~~~~~**
+
+- 🤝 I’m looking for help with **~~~~~~~~~~~~~~~**
+
+- 👨‍💻 All of my projects are available at [~~~~~~~~~~~~~~~](~~~~~~~~~~~~~~~)
+
+- 📝 I regularly write articles on [~~~~~~~~~~~~~~~](~~~~~~~~~~~~~~~)
+
+- 💬 Ask me about **~~~~~~~~~~~~~~~**
+
+- 📫 How to reach me **jannikkugler2006@gmail.com**
+
+- 📄 Know about my experiences [~~~~~~~~~~~~~~~](~~~~~~~~~~~~~~~)
+
+- ⚡ Fun fact **~~~~~~~~~~~~~~~**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jannik2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jannik2006" height="30" width="40" /></a>
@@ -15,6 +39,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/EinsPommes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/EinsPommes" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=einspommes&show_icons=true&locale=en&layout=compact" alt="einspommes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einspommes&show_icons=true&locale=en&layout=compact" alt="einspommes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&locale=en" alt="einspommes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einspommes&" alt="einspommes" /></p>
