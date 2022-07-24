@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/jannik2006" target="blank"><img src="https://img.shields.io/twitter/follow/jannik2006?logo=twitter&style=for-the-badge" alt="jannik2006" /></a> </p>
 
-- 🔭 I’m currently working on **~~~~~~~~~~~~~~~**
+- 🔭 I’m currently working on **𝗖𝗵𝗿𝗼𝗺𝗮𝗖𝗿𝗮𝗳𝘁**
 
-- 🌱 I’m currently learning **~~~~~~~~~~~~~~~**
+- 🌱 I’m currently learning **𝗖++**
 
 - 👯 I’m looking to collaborate on **~~~~~~~~~~~~~~~**
 
