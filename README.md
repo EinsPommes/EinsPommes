@@ -43,4 +43,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einspommes&" alt="einspommes" /></p>
 
+
+
+
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aks5q1t8esoru61dn7yxtrc8a&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile)
