@@ -17,7 +17,7 @@
   
 - Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Kali** and **OpenSUSE**
 
-- Understand Germany, English, and Luxemburgisch 
+- Understand Germany, English, Österreichisches German, and Luxemburgisch 
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
