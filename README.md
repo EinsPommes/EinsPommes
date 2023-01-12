@@ -11,7 +11,7 @@
 
 - Bfsw 22 [***business***](https://sbsz-eisenach.de/)
 
-- Good with **Javascript** , **C++** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
+- Good with **Javascript** , **C++** , **PHP** , **Bash** , **CSS** , **Lua** , **HTML** and **Python**
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   
