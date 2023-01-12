@@ -21,6 +21,7 @@
 <br/>  
 
 
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -112,6 +113,7 @@
             </a></div>
 <br />
 
+  ![snake gif](https://github.com/EinsPommes/EinsPommes/blob/output/github-contribution-grid-snake.gif)
 ----
 
 
