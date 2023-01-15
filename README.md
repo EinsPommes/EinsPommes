@@ -24,7 +24,7 @@
 <br/>
 <br/>
   
-- 📗 [***Remote Acc***](https://github.com/EinsPommes/Remote-acc) <br/>
+- 📗 [*** Remote Acc ***](https://github.com/EinsPommes/Remote-acc) <br/>
   Remote control for servers
 - 📘 [*** Flipper_zero_tools***](https://github.com/EinsPommes/Flipper_zero_tools) <br/>
   Tools for pinball zero (not ready yet)!
