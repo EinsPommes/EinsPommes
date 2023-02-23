@@ -1,4 +1,5 @@
 <div>
+<img src=https://discord.c99.nl/widget/theme-2/431176686659174410.png>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
