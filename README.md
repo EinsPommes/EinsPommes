@@ -16,7 +16,7 @@
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Kali** and **OpenSUSE**
+- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Kali** and **Parrot os**
 
 - Understand Germany, English, Österreichisches German, and Luxemburgisch 
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
