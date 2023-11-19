@@ -6,7 +6,7 @@
 <br/>
 <br/>
   
-- Name **Lea**
+- Name **Jannik/Mika**
 
 - Live in **Thüringen, Germany**
 
