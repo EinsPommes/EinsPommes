@@ -26,7 +26,7 @@
 <br/>
   
 - 📗 [*** Voron Filament cutter ***](https://github.com/EinsPommes/Voron-Filament-cutter-) <br/>
-  Remote control for servers
+  Voron Filament cutter (ERCF erforderlich (v2.1.0.20 soder höher))
 - 📘 [*** Flipper_zero_tools***](https://github.com/EinsPommes/Flipper_zero_tools) <br/>
   Tools for pinball zero (not ready yet)!
 - 📙 [*** Taschenrechner***](https://github.com/EinsPommes/Taschenrechner) <br/>
