@@ -1,3 +1,7 @@
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+<div>
+
+
 <div>
 <img src=https://discord.c99.nl/widget/theme-2/431176686659174410.png>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
