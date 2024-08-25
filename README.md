@@ -8,7 +8,7 @@
 
     Name: Jannik/Mika
     Wohnort: Thüringen, Deutschland
-    Berufliche Schule: Bfsw 22 (business)
+    Ausbildung: Weidmüller
     Programmierung: Javascript, C++, PHP, Bash, CSS, Lua, HTML, Python
     Grafiksoftware: Photoshop, CorelDRAW
     Betriebssysteme: Debian, Ubuntu, Fedora, Arch, Kali, Parrot OS
