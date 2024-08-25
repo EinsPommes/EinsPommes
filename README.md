@@ -10,7 +10,7 @@
     Wohnort: Thüringen, Deutschland
     Auto: Tesla Model 3 Hinterradantrieb
     Ausbildung: Kunststoff Technologe (Weidmüller)
-    Programmierung: Javascript, C++, PHP, Bash, CSS, Lua, HTML, Python
+    Programmierung: Javascript, C++, PHP, Bash, CSS, Lua, HTML, Python, Elixir
     Grafiksoftware: Photoshop, CorelDRAW
     Betriebssysteme: Debian, Ubuntu, Fedora, Arch, Kali, Parrot OS
     Sprachen: Deutsch, Englisch, Österreichisches Deutsch, Luxemburgisch
