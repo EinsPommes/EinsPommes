@@ -9,7 +9,7 @@
     Name: Jannik/Mika
     Wohnort: Thüringen, Deutschland
     Auto: Tesla Model 3 Hinterradantrieb
-    Ausbildung: Weidmüller
+    Ausbildung: Kunststoff Technologe (Weidmüller)
     Programmierung: Javascript, C++, PHP, Bash, CSS, Lua, HTML, Python
     Grafiksoftware: Photoshop, CorelDRAW
     Betriebssysteme: Debian, Ubuntu, Fedora, Arch, Kali, Parrot OS
