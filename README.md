@@ -17,6 +17,14 @@
 
   <img src="./img/Waifu-elainaa.png" width="300" align="right" />
   <br/>
+  ⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.89 %
+
+---
+
+⏰ Updated on Sun, 25 Aug 2024 12:21:36 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
   <img src="./img/Repo-elaina.png" width="500" />
   <br/>
   <br/>
