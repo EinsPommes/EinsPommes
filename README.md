@@ -17,6 +17,8 @@
 
 - Skilled in: **JavaScript**, **Lua**, **C++**, **PHP**, **Go**, and **Python**
 
+- Skills in hardware: **Pcb Design**, **Microcontrollers and embedded systems**, **Prototyping and production**, **System integration**, **Network and communication technologies**
+
 - Highly experienced with: **Docker**, **Cloudflare**, **Photoshop**, and **CI/CD**
 
 - Languages: German, Luxemburgisch, English, and Austria  German
