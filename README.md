@@ -30,8 +30,8 @@
 <br/>
 <br/>
   
-- 📗 [***einspommes/dma-cheat***](https://github.com/EinsPommes/lumenpnp-controller) <br/>
-  Dama Cheat - Update 
+- 📗 [***einspommes/azubi-projekt***](https://github.com/EinsPommes/Labyrinth-Game) <br/>
+  Game 
 - 📘 [***einspommes/blog***](https://github.com/EinsPommes/einspommes.github.io) <br/>
   blog for chill-zone.xyz
 - 📙 [***einspommes/Improved Security HTML Script***](https://github.com/EinsPommes/Improved-Security-HTML-Script) <br/>
