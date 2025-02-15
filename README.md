@@ -4,14 +4,18 @@
 
 # 👋 Hey there, I'm Jannik (Mika)!
 
-![Profile Image](https://i.ibb.co/s1PLVNZ/pp3.png)
+<p align="center">
+  <img src="https://i.ibb.co/s1PLVNZ/pp3.png" width="250" />
+</p>
 
 ## 🛠 About Me
 
-![About Me](./img/AboutMe-elaina.png)
+<p align="center">
+  <img src="./img/AboutMe-elaina.png" width="600" />
+</p>
 
 - **Name:** Jannik / Mika  
-- **Location:** Thüringen, Germany 🇩🇪  
+- **Location:** 🇩🇪 Thüringen, Germany  
 - **Education:** IT System Administrator in training (formerly Plastics and Rubber Technologist)  
 - **Operating Systems:** 🐧 GNU/Linux & FreeBSD  
 - **Programming Languages:** JavaScript, Lua, C++, PHP, Go, Python  
@@ -23,7 +27,9 @@
 
 ## 📌 Featured Projects
 
-![Projects](./img/Repo-elaina.png)
+<p align="center">
+  <img src="./img/Repo-elaina.png" width="600" />
+</p>
 
 - 📗 [**Flipper Zero Online Multiplayer Game**](https://github.com/EinsPommes/FlipperZero-Multiplayer) – A unique online multiplayer experience for Flipper Zero.  
 - 📘 [**FPV Drone Configuration Web Tool**](https://github.com/EinsPommes/FPV-Drone-Configurator) – A web-based FPV drone setup tool using O1 Mini API.  
@@ -34,34 +40,48 @@
 
 ## 🚀 Technologies & Tools
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</p>
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=dark)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=einspommes&theme=darkhub&no-bg=true&no-frame=true&margin-w=5)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=dark" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=einspommes&theme=darkhub&no-bg=true&no-frame=true&margin-w=5" width="600" />
+</p>
 
 ---
 
 ## ✨ Quote
 
-> _"People with evil intent can do evil things without lying. And not all liars are evil."_ – Elaina  
+<p align="center">
+  <em>"People with evil intent can do evil things without lying. And not all liars are evil."</em> – Elaina  
+</p>
 
-![Quote Image](https://i.ibb.co/YWjgGF4/pp1.png)  
+<p align="center">
+  <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="400" />
+</p>
 
 ---
 
 ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jannikkugler2006@web.de)  
+<p align="center">
+  <a href="mailto:jannikkugler2006@web.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-![Footer](https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp)
+<p align="center">
+  <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" />
+</p>
