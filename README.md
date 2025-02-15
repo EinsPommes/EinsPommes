@@ -25,28 +25,28 @@
 
 ![Projects](./img/Repo-elaina.png)
 
-- 📗 [**Labyrinth Game**](https://github.com/EinsPommes/Labyrinth-Game) – Game project  
-- 📘 [**Blog (chill-zone.xyz)**](https://github.com/EinsPommes/einspommes.github.io) – Personal blog  
-- 📙 [**Improved Security HTML Script**](https://github.com/EinsPommes/Improved-Security-HTML-Script) – HTML security enhancements  
-- 📒 [**PnP Controller**](https://github.com/EinsPommes/lumenpnp-controller) – Control your PnP system  
+- 📗 [**Flipper Zero Online Multiplayer Game**](https://github.com/EinsPommes/FlipperZero-Multiplayer) – A unique online multiplayer experience for Flipper Zero.  
+- 📘 [**FPV Drone Configuration Web Tool**](https://github.com/EinsPommes/FPV-Drone-Configurator) – A web-based FPV drone setup tool using O1 Mini API.  
+- 📙 [**Smart NFC Car Unlock System**](https://github.com/EinsPommes/NFC-Car-Unlock) – An advanced NFC-based car entry and start system.  
+- 📒 [**Automated Soldering Robot**](https://github.com/EinsPommes/Soldering-Robot) – A conveyor-driven robotic soldering system for automated PCB production.  
 
 ---
 
 ## 🚀 Technologies & Tools
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 
 ---
 
 ## 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=dark)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=einspommes&theme=darkhub&no-bg=true&no-frame=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=einspommes&theme=darkhub&no-bg=true&no-frame=true&margin-w=5)  
 
 ---
 
@@ -54,13 +54,13 @@
 
 > _"People with evil intent can do evil things without lying. And not all liars are evil."_ – Elaina  
 
-![Quote Image](https://i.ibb.co/YWjgGF4/pp1.png)
+![Quote Image](https://i.ibb.co/YWjgGF4/pp1.png)  
 
 ---
 
 ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jannikkugler2006@web.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jannikkugler2006@web.de)  
 
 ---
 
