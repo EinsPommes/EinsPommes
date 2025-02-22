@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=A177FE&label=Spotify&query=recenttracks.track[0].name&url=https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=aks5q1t8esoru61dn7yxtrc8a&api_key=API_KEY&format=json&logo=spotify" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=A177FE&label=Spotify&query=recenttracks.track[0].name&url=https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=aks5q1t8esoru61dn7yxtrc8a&api_key=056e43e20abc51bd4cc6c386df34a015&format=json&logo=spotify" />
   <br>
   <b>⭐ IT System Administrator & Developer ⭐</b><br>
   <sub>Coding with passion since 2018</sub>
