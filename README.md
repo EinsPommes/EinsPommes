@@ -6,11 +6,15 @@
   <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="150" style="border-radius: 50%;" />
 </p>
 
-<h2 align="center">
-  『 Jannik / Mika 』
-</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A177FE&center=true&vCenter=true&width=435&lines=%E3%80%8E+Jannik+%2F+Mika+%E3%80%8F;%E3%80%8E+EinsPommes+%E3%80%8F;%E3%80%8E+Developer+%E3%80%8F" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=A177FE&label=Spotify&query=recenttracks.track[0].name&url=https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=aks5q1t8esoru61dn7yxtrc8a&api_key=API_KEY&format=json&logo=spotify" />
+  <br>
   <b>⭐ IT System Administrator & Developer ⭐</b><br>
   <sub>Coding with passion since 2018</sub>
 </p>
@@ -81,20 +85,20 @@ const jannik = {
 <div align="center">
   <br>
   
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=spin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white&animation=spin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&animation=spin" /></a>
   
   <br>
   
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=spin" /></a>
   
   <br>
   
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&animation=spin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=spin" /></a>
   
 </div>
 
@@ -105,6 +109,15 @@ const jannik = {
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einspommes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+
+<br>
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  <a href="https://open.spotify.com/user/aks5q1t8esoru61dn7yxtrc8a">
+    <img src="https://novatorem-einspommes.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
+  </a>
 </div>
 
 <br>
