@@ -65,16 +65,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://dev.to/https://dev.to/einspommes" target="_blank">
+<a href="https://dev.to/einspommes" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@EinsPommes0001" target="_blank">
+<a href="https://twitter.com/EinsPommes0001" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/EinsPommes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20748049/e%cc%b8i%cc%b8n%cc%b8s%cc%b8p%cc%b8o%cc%b8m%cc%b8m%cc%b8e%cc%b8s%cc%b8" target="_blank">
+<a href="https://stackoverflow.com/users/20748049/einspommes" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -105,19 +105,18 @@
 <br/>  
 
 <div align="center">
-            <a href="https://ko-fi.com/https://ko-fi.com/manage/index?method=externallogin" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
+<a href="https://ko-fi.com/einspommes" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center" />
+</a>
+</div>
 <br />
 
-  ![snake gif](https://github.com/EinsPommes/EinsPommes/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ----
-
-
-
-
-
-
