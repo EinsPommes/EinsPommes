@@ -91,23 +91,49 @@ const jannik = {
 <summary>💫 Tech Stack</summary>
 
 <div align="center">
-  <br>
+  <h4>Frontend & Design</h4>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   
-  <a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=spin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white&animation=spin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&animation=spin" /></a>
+  ```text
+  HTML/CSS        ███████████░░  85%
+  JavaScript      ████████░░░░░  65%
+  UI/UX Design    ██████░░░░░░░  50%
+  ```
+
+  <h4>Backend & Systeme</h4>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
-  <br>
+  ```text
+  Python          ████████████░  90%
+  Go              ███████░░░░░░  60%
+  C++             ████████░░░░░  65%
+  ```
+
+  <h4>Hardware & Embedded</h4>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-%23000000.svg?style=for-the-badge&logo=pcb&logoColor=white" />
   
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=spin" /></a>
+  ```text
+  Arduino         ███████████░░  85%
+  PCB Design      ████████░░░░░  65%
+  Networking      ███████░░░░░░  60%
+  ```
+
+  <h4>DevOps & Tools</h4>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   
-  <br>
-  
-  <a href="#"><img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&animation=spin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=spin" /></a>
-  
+  ```text
+  Linux Admin     █████████████  95%
+  Docker          ████████░░░░░  65%
+  Git             ██████████░░░  80%
+  ```
 </div>
 
 </details>
