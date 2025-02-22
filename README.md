@@ -59,17 +59,27 @@ const jannik = {
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/EinsPommes/FlipperZero-Multiplayer">
-          <img src="./img/Profile-elaina.png" width="200"/>
+          <img src="https://raw.githubusercontent.com/EinsPommes/FlipperZero-Multiplayer/main/preview.png" width="300" style="border-radius: 10px"/>
           <br>
           <b>Flipper Zero Multiplayer</b>
         </a>
+        <br>
+        <sub>Ein Multiplayer-System für den Flipper Zero, das lokale Spiele und Interaktionen zwischen mehreren Geräten ermöglicht.</sub>
+        <br>
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/Version-0.1.0-blue?style=flat-square&logo=semver"/>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/EinsPommes/FPV-Drone-Configurator">
-          <img src="./img/Profile-elaina.png" width="200"/>
+          <img src="https://raw.githubusercontent.com/EinsPommes/FPV-Drone-Configurator/main/preview.png" width="300" style="border-radius: 10px"/>
           <br>
           <b>FPV Drone Configurator</b>
         </a>
+        <br>
+        <sub>Ein benutzerfreundliches Tool zur Konfiguration von FPV-Drohnen mit intuitiver Oberfläche und Echtzeit-Feedback.</sub>
+        <br>
+        <img src="https://img.shields.io/badge/Status-Released-green?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square&logo=semver"/>
       </td>
     </tr>
   </table>
@@ -107,15 +117,6 @@ const jannik = {
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einspommes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-<br>
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=aks5q1t8esoru61dn7yxtrc8a&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aks5q1t8esoru61dn7yxtrc8a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
 </div>
 
 <br>
