@@ -2,9 +2,9 @@
   <img src="./img/banner-elainaa.png" width="100%" />
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="150" style="border-radius: 50%;" />
-</p>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -12,13 +12,24 @@
   </a>
 </div>
 
-<p align="center">
-  <b>⭐ IT System Administrator & Developer ⭐</b><br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br>
+  <img src="https://pixel-art-icons.vercel.app/wizard.gif" width="32" />
+  <b>⭐ IT System Administrator & Developer ⭐</b>
+  <img src="https://pixel-art-icons.vercel.app/cat.gif" width="32" />
+  <br>
   <sub>Coding with passion since 2018</sub>
-</p>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
   <img src="./img/AboutMe-elaina.png" width="500" />
+  <br>
+  <img src="https://pixel-art-icons.vercel.app/heart.gif" width="24" />
+  <img src="https://pixel-art-icons.vercel.app/star.gif" width="24" />
+  <img src="https://pixel-art-icons.vercel.app/sparkles.gif" width="24" />
 </div>
 
 <br>
@@ -53,7 +64,10 @@ const jannik = {
 <div align="center">
   <br>
   <img src="./img/Repo-elaina.png" width="500" />
-  <br><br>
+  <br>
+  <img src="https://pixel-art-icons.vercel.app/sword.gif" width="24" />
+  <img src="https://pixel-art-icons.vercel.app/shield.gif" width="24" />
+  <br>
   
   <table>
     <tr>
@@ -91,6 +105,7 @@ const jannik = {
 <summary>💫 Tech Stack</summary>
 
 <div align="center">
+  <img src="https://pixel-art-icons.vercel.app/book.gif" width="32" />
   <h4>Frontend & Design</h4>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -144,6 +159,7 @@ const jannik = {
 <summary>📊 Coding Stats</summary>
 
 <div align="center">
+  <img src="https://pixel-art-icons.vercel.app/chart.gif" width="32" />
   <h4>⌚ Weekly Development Breakdown</h4>
   
   <img src="https://wakatime.com/share/@ece1c529-707e-437d-be89-2423c598c17d/d757c83d-c3a9-4c25-b2a4-910a67d3da97.png" width="500" alt="WakaTime Stats" />
@@ -181,29 +197,35 @@ const jannik = {
 <div align="center">
   <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="200" />
   <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br>
+  <img src="https://pixel-art-icons.vercel.app/potion.gif" width="24" />
   <i>„People with evil intent can do evil things without lying.<br>And not all liars are evil."</i>
+  <img src="https://pixel-art-icons.vercel.app/potion.gif" width="24" />
   <br>
   <sub>— Elaina</sub>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <br>
 
 <div align="center">
   <a href="mailto:jannikkugler2006@web.de">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-A177FE?style=for-the-badge&logo=mail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/EinsPommes">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-A177FE?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br><br>
+  <img src="https://pixel-art-icons.vercel.app/wand.gif" width="24" />
+  <sub>Created with 💜 by Jannik</sub>
+  <img src="https://pixel-art-icons.vercel.app/wand.gif" width="24" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=einspommes&color=A177FE&style=flat-square" alt="profile views" />
 </div>
 
 <div align="center">
   <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" />
-</div>
-
-<div align="center">
-  <sub>Created with 💜 by Jannik</sub>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=einspommes&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
