@@ -1,123 +1,126 @@
+# <div align="center">✨ Willkommen in meiner magischen Coding-Welt ✨</div>
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-# ***<div align="center">Ich bin Jannik und Programmiere seit 2018👨‍💻</div>***  
-  
-
-- 🔭Ich arbeite gerade an [Flipper-zero](https://github.com/EinsPommes/Flipper_zero_tools)  
-  
-
-- 🌱 Ich lerne gerade ...  
-  
-
-- ❓ Frag mich was über den Flipper zero   
-  
-
-- ⚡Fun Fact: Ich benutze Tabulatoren statt Leerzeichen  
-  
-
-<br/>  
-
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+  <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="200" style="border-radius: 50%;" />
 </div>
 
+<h3 align="center">
+  Hey, ich bin Jannik (Mika) 👋
+  <br>
+  IT System Administrator & Passionate Developer
+</h3>
 
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="mailto:jannikkugler2006@web.de">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/EinsPommes0001">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="./img/AboutMe-elaina.png" width="600" />
+</div>
+
+## 🌟 Über Mich
+
+```python
+class Jannik:
+    def __init__(self):
+        self.name = "Jannik / Mika"
+        self.location = "🇩🇪 Thüringen, Germany"
+        self.work = "IT System Administrator (in Ausbildung)"
+        self.background = "Formerly Plastics and Rubber Technologist"
+        self.languages = ["Deutsch", "Luxemburgisch", 
+                         "Englisch", "Österreichisch"]
+        
+    def get_tech_stack(self):
+        return {
+            'os': ['GNU/Linux 🐧', 'FreeBSD'],
+            'languages': ['JavaScript', 'Lua', 'C++', 
+                        'PHP', 'Go', 'Python'],
+            'hardware': ['PCB Design', 'Embedded Systems',
+                        'Prototyping', 'Networking'],
+            'tools': ['Docker', 'Cloudflare', 'Git', 
+                     'Photoshop', 'CI/CD']
+        }
+```
+
+## 🚀 Aktuelle Projekte
+
+<div align="center">
+  <img src="./img/Repo-elaina.png" width="600" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/EinsPommes/FlipperZero-Multiplayer">
+        <img src="./img/Profile-elaina.png" width="250" alt="Project 1"/><br/>
+        <b>Flipper Zero Online Multiplayer</b>
+      </a>
+      <br/>
+      <sub>Ein einzigartiges Multiplayer-Erlebnis für Flipper Zero</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/EinsPommes/FPV-Drone-Configurator">
+        <img src="./img/Profile-elaina.png" width="250" alt="Project 2"/><br/>
+        <b>FPV Drone Configurator</b>
+      </a>
+      <br/>
+      <sub>Web-basiertes FPV Drohnen Setup Tool</sub>
+    </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack
+
+<div align="center">
+  
+  ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+  ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+  
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einspommes&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+## ✨ Lieblingszitat
+
+<div align="center">
+  <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="300" />
+  <br>
+  <em>"People with evil intent can do evil things without lying. And not all liars are evil."</em>
+  <br>
+  — Elaina
+</div>
+
+## 📫 Kontakt
+
+<div align="center">
+  <a href="mailto:jannikkugler2006@web.de">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/EinsPommes">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EinsPommes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=aks5q1t8esoru61dn7yxtrc8a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=00ffff" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EinsPommes&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-<a href="https://ko-fi.com/einspommes" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center" />
-</a>
-</div>
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
-----
+<br>
 
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" />
-</p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Mit 💜 erstellt von Jannik</sub>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=einspommes&color=blueviolet&style=flat-square" alt="profile views" />
+</div>
