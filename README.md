@@ -140,6 +140,37 @@ const jannik = {
 
 <br>
 
+<details open>
+<summary>📊 Coding Stats</summary>
+
+<div align="center">
+  <h4>⌚ Weekly Development Breakdown</h4>
+  
+  <img src="https://wakatime.com/share/@ece1c529-707e-437d-be89-2423c598c17d/d757c83d-c3a9-4c25-b2a4-910a67d3da97.png" width="500" alt="WakaTime Stats" />
+  
+  <details>
+    <summary>📊 Detailed Coding Stats</summary>
+    <img src="https://wakatime.com/share/@ece1c529-707e-437d-be89-2423c598c17d/c141d42a-5952-4c53-8146-610e0c6f9d9f.png" width="500" alt="Languages" />
+    <img src="https://wakatime.com/share/@ece1c529-707e-437d-be89-2423c598c17d/1c1c5fd0-c744-4db2-8714-43254e227d6f.png" width="500" alt="Editors" />
+  </details>
+  
+  <h4>🔥 Streak Stats</h4>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=einspommes&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  
+  <h4>📈 Contribution Graph</h4>
+  
+  <img src="https://github-contribution-stats.vercel.app/api/?username=einspommes&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Contribution Stats" />
+  
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=einspommes&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
+</div>
+
+</details>
+
+<br>
+
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=einspommes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einspommes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
