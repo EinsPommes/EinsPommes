@@ -1,4 +1,4 @@
-hi, im Mika
+hi, im Jannik/Mika
 
 im a developer and (un)professional pentester mostly interested in infosec, and a silly block game.
 
