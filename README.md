@@ -1,10 +1,10 @@
-hi, im Jannik/Mika
+Hi, I'm Jannik (aka Mika).
 
-im a developer and (un)professional pentester mostly interested in infosec, and a silly block game.
+I'm a developer and (un)professional pentester with a strong interest in information security and a certain block-based game.
 
-there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
+Most of my current work is private due to security or NDA reasons, but more public projects will show up over time.
 
-you might know me from random stuff i do.
+You might have seen me around in various random projects.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/pacman-contribution-graph-dark.svg">
