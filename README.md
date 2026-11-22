@@ -55,5 +55,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-<img src="./img/footer.svg" width="100%" align="center" />
+<img src="./img/footer.png" width="100%" align="center" />
 </div>
