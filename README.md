@@ -44,9 +44,7 @@
 <a href="#"><img src="https://img.shields.io/badge/%E2%9C%A6-A177FE?style=for-the-badge"/></a> <a href="https://github.com/EinsPommes"><img src="https://img.shields.io/badge/GITHUB-A177FE?style=for-the-badge"/></a> <a href="https://einspommes.github.io"><img src="https://img.shields.io/badge/WEBSITE-A177FE?style=for-the-badge"/></a> <a href="https://github.com/EinsPommes?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-A177FE?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%E2%9C%A6-A177FE?style=for-the-badge"/></a>
 </p>
 
-<img src="./img/Activity.png" width="488" />
-<br/>
-<br/>
+<p align="center"><img src="./img/Activity.png" width="488" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/pacman-contribution-graph-dark.svg">
