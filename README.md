@@ -5,12 +5,13 @@
 <img src="./img/section-about.svg" width="100%" alt="About Me" />
 
 ```yaml
-name:      Jannik / ヤニク  (aka Mika / ミカ)
-location:  Germany
-doing:     Development & (un)professional Pentesting
-systems:   GNU/Linux, FreeBSD, other Unix-likes
-languages: Python, Go, C++, JavaScript, Lua, PHP
-hardware:  ESP32, RP2040, Flipper Zero, CAN bus, PCB design
+hi, im Jannik/Mika
+
+im a developer and (un)professional pentester mostly interested in infosec, and a silly block game.
+
+there is nothing much on here public, hopefully thatll change but most of my current repositories contain private exploits and other stuff im not allowed to reveal.
+
+you might know me from random stuff i do.
 ```
 
 > Most of my current work is private for security or NDA reasons. More public projects will show up over time.
