@@ -21,14 +21,29 @@
 
 <img src="./img/header-about.svg" width="100%" alt="About Me" />
 
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="./img/coder-girl.png" width="100%" alt="anime coder girl in a black CODE hoodie" />
+    </td>
+    <td width="62%" valign="middle">
+
 ```yaml
 name:      Jannik
 alias:     Mika / EinsPommes
 role:      Developer & Pentester
-interests: [information security, systems, hardware, a certain block-based game]
+interests:
+  - information security
+  - systems & hardware
+  - a certain block-based game
 os:        [GNU/Linux, FreeBSD]
-motto:     "Break it, understand it, make it better."
+motto:     "Break it, understand it,
+            make it better."
 ```
+
+</td>
+  </tr>
+</table>
 
 > [!NOTE]
 > Most of my current work is **private** for security or NDA reasons.
@@ -108,6 +123,6 @@ motto:     "Break it, understand it, make it better."
 
 <img src="./img/footer.svg" width="100%" alt="Thanks for stopping by" />
 
-<sub>All artwork in this profile is original and drawn as SVG.</sub>
+<sub>Banner, header &amp; mascot artwork drawn as SVG.</sub>
 
 </div>
