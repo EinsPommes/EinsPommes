@@ -123,6 +123,5 @@ motto:     "Break it, understand it,
 
 <img src="./img/footer.svg" width="100%" alt="Thanks for stopping by" />
 
-<sub>Banner, header &amp; mascot artwork drawn as SVG.</sub>
 
 </div>
