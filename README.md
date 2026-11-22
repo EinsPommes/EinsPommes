@@ -2,11 +2,11 @@
 <div>
 <img width="300" src="./img/coder-girl.png" align=right />
 <br/>
-<img src="./img/header-about.svg" width="488" />
+<img src="./img/AboutMe.png" width="488" />
 <br/>
 <br/>
 
-- Name: **Jannik** / **Mika** / **ミカ**.
+- Name: **Jannik** / **ヤニク** (aka **Mika** / **ミカ**).
 
 - Location: **Germany**.
 
@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsPommes&layout=compact&hide_border=true&bg_color=00000000&title_color=A177FE&text_color=9f9fb0" align=right />
 <br/>
 <br/>
-<img src="./img/header-repos.svg" width="488" />
+<img src="./img/Repo.png" width="488" />
 <br/>
 <br/>
 
@@ -44,6 +44,10 @@
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%E2%9C%A6-A177FE?style=for-the-badge"/></a> <a href="https://github.com/EinsPommes"><img src="https://img.shields.io/badge/GITHUB-A177FE?style=for-the-badge"/></a> <a href="https://einspommes.github.io"><img src="https://img.shields.io/badge/WEBSITE-A177FE?style=for-the-badge"/></a> <a href="https://github.com/EinsPommes?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-A177FE?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%E2%9C%A6-A177FE?style=for-the-badge"/></a>
 </p>
+
+<img src="./img/Activity.png" width="488" />
+<br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EinsPommes/EinsPommes/output/pacman-contribution-graph-dark.svg">
