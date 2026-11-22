@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a1c,50:3b2470,100:A177FE&height=200&section=header&text=Mika%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%C2%B7%20Pentester%20%C2%B7%20InfoSec%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 <div>
 <img width="300" src="./img/mika.png" align=right />
 <br/>
